@@ -1,0 +1,5 @@
+The code, data, and model weights in this repository are not allowed for commercial usage. For research purposes, the terms follow the GPLv3 as in the separate file "LICENSE_GPL".
+
+This repository is derived from MapTracker ("MapTracker: Tracking with Strided Memory Fusion for Consistent Vector HD Mapping", https://github.com/woodfrog/maptracker), which is released under the same terms.
+
+-- Authors of the paper "InstGPMap: Real-Time Instance-Level Global Prior Mapping via Historical Predictions Fusion".
